@@ -1,0 +1,123 @@
+[
+    {
+      "id": "INC-PL01-24-0001/CA1",
+      "planDescription": "Development",
+      "referenceActionItem": "INC-PL01-24-0001/CA1/W1",
+      "category": "Corrective Action",
+      "inChargeGroup": "",
+      "inChargeUser": "JohnDoe",
+      "documents": "Document",
+      "startDate": "2024-01-15",
+      "targetDate": "2024-02-25",
+      "previousPlanDetails": "View"
+    },
+    {
+      "id": "INC-PL01-24-0002/CA2",
+      "planDescription": "Testing",
+      "referenceActionItem": "INC-PL01-24-0002/CA2/W2",
+      "category": "Corrective Action",
+      "inChargeGroup": "QA Team",
+      "inChargeUser": "",
+      "documents": "Test Plan",
+      "startDate": "2024-02-01",
+      "targetDate": "2024-03-01",
+      "previousPlanDetails": "View"
+    },
+    {
+      "id": "INC-PL01-24-0003/CA3",
+      "planDescription": "Documentation",
+      "referenceActionItem": "INC-PL01-24-0003/CA3/W3",
+      "category": "Corrective Action",
+      "inChargeGroup": "",
+      "inChargeUser": "JaneDoe",
+      "documents": "Doc Update",
+      "startDate": "2024-03-01",
+      "targetDate": "2024-04-01",
+      "previousPlanDetails": "View"
+    },
+    {
+      "id": "INC-PL01-24-0004/CA4",
+      "planDescription": "Research",
+      "referenceActionItem": "INC-PL01-24-0004/CA4/W4",
+      "category": "Corrective Action",
+      "inChargeGroup": "Research Team",
+      "inChargeUser": "",
+      "documents": "Research Report",
+      "startDate": "2024-04-01",
+      "targetDate": "2024-05-01",
+      "previousPlanDetails": "View"
+    },
+    {
+      "id": "INC-PL01-24-0005/CA5",
+      "planDescription": "Deployment",
+      "referenceActionItem": "INC-PL01-24-0005/CA5/W5",
+      "category": "Corrective Action",
+      "inChargeGroup": "",
+      "inChargeUser": "MikeSmith",
+      "documents": "Deployment Guide",
+      "startDate": "2024-05-01",
+      "targetDate": "2024-06-01",
+      "previousPlanDetails": "View"
+    },
+    {
+      "id": "INC-PL01-24-0006/CA6",
+      "planDescription": "Maintenance",
+      "referenceActionItem": "INC-PL01-24-0006/CA6/W6",
+      "category": "Corrective Action",
+      "inChargeGroup": "Maintenance Team",
+      "inChargeUser": "",
+      "documents": "Maintenance Log",
+      "startDate": "2024-06-01",
+      "targetDate": "2024-07-01",
+      "previousPlanDetails": "View"
+    },
+    {
+      "id": "INC-PL01-24-0007/CA7",
+      "planDescription": "Analysis",
+      "referenceActionItem": "INC-PL01-24-0007/CA7/W7",
+      "category": "Corrective Action",
+      "inChargeGroup": "",
+      "inChargeUser": "SaraJohnson",
+      "documents": "Analysis Report",
+      "startDate": "2024-07-01",
+      "targetDate": "2024-08-01",
+      "previousPlanDetails": "View"
+    },
+    {
+      "id": "INC-PL01-24-0008/CA8",
+      "planDescription": "Planning",
+      "referenceActionItem": "INC-PL01-24-0008/CA8/W8",
+      "category": "Corrective Action",
+      "inChargeGroup": "Planning Team",
+      "inChargeUser": "",
+      "documents": "Planning Document",
+      "startDate": "2024-08-01",
+      "targetDate": "2024-09-01",
+      "previousPlanDetails": "View"
+    },
+    {
+      "id": "INC-PL01-24-0009/CA9",
+      "planDescription": "Evaluation",
+      "referenceActionItem": "INC-PL01-24-0009/CA9/W9",
+      "category": "Corrective Action",
+      "inChargeGroup": "",
+      "inChargeUser": "HenryWilson",
+      "documents": "Evaluation Report",
+      "startDate": "2024-09-01",
+      "targetDate": "2024-10-01",
+      "previousPlanDetails": "View"
+    },
+    {
+      "id": "INC-PL01-24-0010/CA10",
+      "planDescription": "Optimization",
+      "referenceActionItem": "INC-PL01-24-0010/CA10/W10",
+      "category": "Corrective Action",
+      "inChargeGroup": "Optimization Team",
+      "inChargeUser": "",
+      "documents": "Optimization Guide",
+      "startDate": "2024-10-01",
+      "targetDate": "2024-11-01",
+      "previousPlanDetails": "View"
+    }
+  ]
+  

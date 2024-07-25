@@ -1,0 +1,63 @@
+[
+    {
+      "id": "PROV-CC-PL01-24-0035",
+      "department": "Marketing",
+      "initiatedBy": "Ava Gonzalez",
+      "date": "2023-05-31"
+    },
+    {
+      "id": "PROV-CC-PL01-24-0036",
+      "department": "Quality Assurance",
+      "initiatedBy": "Ethan Martinez",
+      "date": "2023-06-01"
+    },
+    {
+      "id": "PROV-CC-PL01-24-0037",
+      "department": "Quality Control",
+      "initiatedBy": "Sophia Rodriguez",
+      "date": "2023-06-05"
+    },
+    {
+      "id": "PROV-CC-PL01-24-0038",
+      "department": "Marketing",
+      "initiatedBy": "Liam Johnson",
+      "date": "2023-06-10"
+    },
+    {
+      "id": "PROV-CC-PL01-24-0039",
+      "department": "Quality Assurance",
+      "initiatedBy": "Emma Brown",
+      "date": "2023-06-15"
+    },
+    {
+      "id": "PROV-CC-PL01-24-0040",
+      "department": "Quality Control",
+      "initiatedBy": "Mason Garcia",
+      "date": "2023-06-20"
+    },
+    {
+      "id": "PROV-CC-PL01-24-0041",
+      "department": "Marketing",
+      "initiatedBy": "Isabella Martinez",
+      "date": "2023-06-25"
+    },
+    {
+      "id": "PROV-CC-PL01-24-0042",
+      "department": "Quality Assurance",
+      "initiatedBy": "Noah Hernandez",
+      "date": "2023-06-30"
+    },
+    {
+      "id": "PROV-CC-PL01-24-0043",
+      "department": "Quality Control",
+      "initiatedBy": "Ava Wilson",
+      "date": "2023-07-05"
+    },
+    {
+      "id": "PROV-CC-PL01-24-0044",
+      "department": "Marketing",
+      "initiatedBy": "Lucas White",
+      "date": "2023-07-10"
+    }
+  ]
+  

@@ -1,0 +1,102 @@
+[
+  {
+    "id": "CC-PL01-24-0001/DM1",
+    "planType": "Documentation",
+    "initiatedBy": "Michael Smith",
+    "date": "2024-01-10",
+    "targetDate": "2024-02-15",
+    "revisedTargetDate": "2024-02-20",
+    "targetDateRevisionComments": "Extended due to additional requirements",
+    "revisedByOn": "Sara Johnson & 2024-02-18"
+  },
+  {
+    "id": "CC-PL01-24-0002/RM1",
+    "planType": "QRM",
+    "initiatedBy": "Anna Brown",
+    "date": "2024-02-05",
+    "targetDate": "2024-03-10",
+    "revisedTargetDate": "2024-03-12",
+    "targetDateRevisionComments": "Additional test cases required",
+    "revisedByOn": "David Clark & 2024-03-08"
+  },
+  {
+    "id": "CC-PL01-24-0003/DM2",
+    "planType": "Documentation",
+    "initiatedBy": "James Wilson",
+    "date": "2024-03-01",
+    "targetDate": "2024-04-05",
+    "revisedTargetDate": "2024-04-07",
+    "targetDateRevisionComments": "Documentation updates needed",
+    "revisedByOn": "Emily Davis & 2024-04-04"
+  },
+  {
+    "id": "CC-PL01-24-0004/RM2",
+    "planType": "QRM",
+    "initiatedBy": "Emma Johnson",
+    "date": "2024-04-10",
+    "targetDate": "2024-05-15",
+    "revisedTargetDate": "2024-05-18",
+    "targetDateRevisionComments": "Extended due to new findings",
+    "revisedByOn": "Chris Lee & 2024-05-16"
+  },
+  {
+    "id": "CC-PL01-24-0005/DM3",
+    "planType": "Documentation",
+    "initiatedBy": "Olivia Martinez",
+    "date": "2024-05-05",
+    "targetDate": "2024-06-10",
+    "revisedTargetDate": "2024-06-15",
+    "targetDateRevisionComments": "Deployment issues resolved",
+    "revisedByOn": "Daniel Harris & 2024-06-12"
+  },
+  {
+    "id": "CC-PL01-24-0006/RM3",
+    "planType": "QRM",
+    "initiatedBy": "Lucas Clark",
+    "date": "2024-06-01",
+    "targetDate": "2024-07-05",
+    "revisedTargetDate": "2024-07-10",
+    "targetDateRevisionComments": "Routine maintenance extended",
+    "revisedByOn": "Sophia Martinez & 2024-07-07"
+  },
+  {
+    "id": "CC-PL01-24-0007/DM4",
+    "planType": "Documentation",
+    "initiatedBy": "Mia Taylor",
+    "date": "2024-07-01",
+    "targetDate": "2024-08-05",
+    "revisedTargetDate": "2024-08-08",
+    "targetDateRevisionComments": "Further analysis required",
+    "revisedByOn": "Henry Wilson & 2024-08-06"
+  },
+  {
+    "id": "CC-PL01-24-0008/RM4",
+    "planType": "QRM",
+    "initiatedBy": "Amelia Moore",
+    "date": "2024-08-01",
+    "targetDate": "2024-09-05",
+    "revisedTargetDate": "2024-09-07",
+    "targetDateRevisionComments": "Planning adjustments needed",
+    "revisedByOn": "Benjamin Clark & 2024-09-06"
+  },
+  {
+    "id": "CC-PL01-24-0009/DM5",
+    "planType": "Documentation",
+    "initiatedBy": "Elijah White",
+    "date": "2024-09-01",
+    "targetDate": "2024-10-05",
+    "revisedTargetDate": "2024-10-10",
+    "targetDateRevisionComments": "Extended due to additional evaluations",
+    "revisedByOn": "Isabella Thompson & 2024-10-08"
+  },
+  {
+    "id": "CC-PL01-24-0010/RM5",
+    "planType": "QRM",
+    "initiatedBy": "Liam King",
+    "date": "2024-10-01",
+    "targetDate": "2024-11-05",
+    "revisedTargetDate": "2024-11-07",
+    "targetDateRevisionComments": "Optimization adjustments required",
+    "revisedByOn": "Charlotte Lee & 2024-11-06"
+  }
+]

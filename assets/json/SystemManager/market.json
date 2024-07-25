@@ -1,0 +1,44 @@
+[
+    {
+        "id": "MK001",
+        "marketName": "United States",
+        "initiatedBy": "Milly Brown",
+        "date": "2023-05-17"
+    },
+    {
+        "id": "MK001",
+        "marketName": "Australia",
+        "initiatedBy": "Alice Johnson",
+        "date": "2023-05-17"
+    },
+    {
+        "id": "MK001",
+        "marketName": "Austria",
+        "initiatedBy": "Daniel Lee",
+        "date": "2023-05-17"
+    },
+    {
+        "id": "MK001",
+        "marketName": "United Kingdom",
+        "initiatedBy": "John Doe",
+        "date": "2023-05-17"
+    },
+    {
+        "id": "MK001",
+        "marketName": "Brazil",
+        "initiatedBy": "Emilly Brown",
+        "date": "2023-05-17"
+    },
+    {
+        "id": "MK001",
+        "marketName": "Argentina",
+        "initiatedBy": "David Wilson",
+        "date": "2023-05-17"
+    },
+    {
+        "id": "MK001",
+        "marketName": "India",
+        "initiatedBy": "Jane Smith",
+        "date": "2023-05-17"
+    }
+]

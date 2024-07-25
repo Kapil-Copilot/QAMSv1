@@ -1,0 +1,67 @@
+[{
+    "id": "QC/HPL/068",
+    "equipmentName":"High Performance Liquid Chromatography",
+    "make":"Shimadzu",
+    "model":"LC-2010",
+    "department": "Quality Control",
+    "initiatedBy": "Daniel Lee",
+    "date": "2023-05-17"
+     },
+
+     {
+      "id": "QC/HPL/069",
+      "equipmentName":"High Performance Liquid Chromatography",
+      "make":"Shimadzu",
+      "model":"LC-2010",
+      "department": "Quality Control",
+      "initiatedBy": "Jack Wilson",
+      "date": "2023-05-17"
+       },
+       {
+        "id": "QC/HPL/070",
+        "equipmentName":"High Performance Liquid Chromatography",
+        "make":"Shimadzu",
+        "model":"LC-2010",
+        "department": "Quality Control",
+        "initiatedBy": "Alice Johnson",
+        "date": "2023-05-17"
+         },
+
+         {
+          "id": "QC/HPL/071",
+          "equipmentName":"High Performance Liquid Chromatography",
+          "make":"Shimadzu",
+          "model":"LC-2010",
+          "department": "Quality Control",
+          "initiatedBy": "Emilly Brown",
+          "date": "2023-05-17"
+           },
+
+           {
+            "id": "QC/HPL/072",
+            "equipmentName":"High Performance Liquid Chromatography",
+            "make":"Shimadzu",
+            "model":"LC-2010",
+            "department": "Quality Control",
+            "initiatedBy": "David Wilson",
+            "date": "2023-05-17"
+             },
+             {
+              "id": "QC/HPL/073",
+              "equipmentName":"High Performance Liquid Chromatography",
+              "make":"Shimadzu",
+              "model":"LC-2010",
+              "department": "Quality Control",
+              "initiatedBy": "John Doe",
+              "date": "2023-05-17"
+               },
+               {
+                "id": "QC/HPL/074",
+                "equipmentName":"High Performance Liquid Chromatography",
+                "make":"Shimadzu",
+                "model":"LC-2010",
+                "department": "Quality Control",
+                "initiatedBy": "Jane Smith",
+                "date": "2023-05-17"
+                 }
+]

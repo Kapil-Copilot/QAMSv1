@@ -1,0 +1,103 @@
+[
+    {
+      "id": "CAPA-PL01-24-0001/CA1",
+      "planType": "Corrective Action",
+      "initiatedBy": "Michael Smith",
+      "date": "2024-01-10",
+      "targetDate": "2024-02-15",
+      "revisedTargetDate": "2024-02-20",
+      "targetDateRevisionComments": "Extended due to additional requirements",
+      "revisedByOn": "Sara Johnson & 2024-02-18"
+    },
+    {
+      "id": "CAPA-PL01-24-0002/PA1",
+      "planType": "Preventive Action",
+      "initiatedBy": "Anna Brown",
+      "date": "2024-02-05",
+      "targetDate": "2024-03-10",
+      "revisedTargetDate": "2024-03-12",
+      "targetDateRevisionComments": "Additional test cases required",
+      "revisedByOn": "David Clark & 2024-03-08"
+    },
+    {
+      "id": "CAPA-PL01-24-0003/CA2",
+      "planType": "Corrective Action",
+      "initiatedBy": "James Wilson",
+      "date": "2024-03-01",
+      "targetDate": "2024-04-05",
+      "revisedTargetDate": "2024-04-07",
+      "targetDateRevisionComments": "Documentation updates needed",
+      "revisedByOn": "Emily Davis & 2024-04-04"
+    },
+    {
+      "id": "CAPA-PL01-24-0004/PA2",
+      "planType": "Preventive Action",
+      "initiatedBy": "Emma Johnson",
+      "date": "2024-04-10",
+      "targetDate": "2024-05-15",
+      "revisedTargetDate": "2024-05-18",
+      "targetDateRevisionComments": "Extended due to new findings",
+      "revisedByOn": "Chris Lee & 2024-05-16"
+    },
+    {
+      "id": "CAPA-PL01-24-0005/CA3",
+      "planType": "Corrective Action",
+      "initiatedBy": "Olivia Martinez",
+      "date": "2024-05-05",
+      "targetDate": "2024-06-10",
+      "revisedTargetDate": "2024-06-15",
+      "targetDateRevisionComments": "Deployment issues resolved",
+      "revisedByOn": "Daniel Harris & 2024-06-12"
+    },
+    {
+      "id": "CAPA-PL01-24-0006/PA3",
+      "planType": "Preventive Action",
+      "initiatedBy": "Lucas Clark",
+      "date": "2024-06-01",
+      "targetDate": "2024-07-05",
+      "revisedTargetDate": "2024-07-10",
+      "targetDateRevisionComments": "Routine maintenance extended",
+      "revisedByOn": "Sophia Martinez & 2024-07-07"
+    },
+    {
+      "id": "CAPA-PL01-24-0007/CA4",
+      "planType": "Corrective Action",
+      "initiatedBy": "Mia Taylor",
+      "date": "2024-07-01",
+      "targetDate": "2024-08-05",
+      "revisedTargetDate": "2024-08-08",
+      "targetDateRevisionComments": "Further analysis required",
+      "revisedByOn": "Henry Wilson & 2024-08-06"
+    },
+    {
+      "id": "CAPA-PL01-24-0008/PA4",
+      "planType": "Preventive Action",
+      "initiatedBy": "Amelia Moore",
+      "date": "2024-08-01",
+      "targetDate": "2024-09-05",
+      "revisedTargetDate": "2024-09-07",
+      "targetDateRevisionComments": "Planning adjustments needed",
+      "revisedByOn": "Benjamin Clark & 2024-09-06"
+    },
+    {
+      "id": "CAPA-PL01-24-0009/CA5",
+      "planType": "Corrective Action",
+      "initiatedBy": "Elijah White",
+      "date": "2024-09-01",
+      "targetDate": "2024-10-05",
+      "revisedTargetDate": "2024-10-10",
+      "targetDateRevisionComments": "Extended due to additional evaluations",
+      "revisedByOn": "Isabella Thompson & 2024-10-08"
+    },
+    {
+      "id": "CAPA-PL01-24-0010/PA5",
+      "planType": "Preventive Action",
+      "initiatedBy": "Liam King",
+      "date": "2024-10-01",
+      "targetDate": "2024-11-05",
+      "revisedTargetDate": "2024-11-07",
+      "targetDateRevisionComments": "Optimization adjustments required",
+      "revisedByOn": "Charlotte Lee & 2024-11-06"
+    }
+  ]
+  

@@ -1,6 +1,6 @@
 [
     {
-      "id": "MC-PL01-24-0001/DM1/W1",
+      "id": "MC-PL01-24-0001/IAX/WX",
       "description": "This is a sample corrective action for a quality issue.",
       "assignedTo": "Jane Smith",
       "date": "2023-05-18",
@@ -10,7 +10,7 @@
       "ReviewComments": "Needs further investigation into root cause."
     },
     {
-      "id": "MC-PL02-24-0002/ENG/W2",
+      "id": "MC-PL02-24-0002/OAX/W1",
       "description": "Corrective action for a design flaw.",
       "assignedTo": "Michael Chen",
       "date": "2023-05-19",
@@ -20,7 +20,7 @@
       "ReviewComments": "Approved. Effective solution."
     },
     {
-      "id": "MC-PL03-24-0003/INV/W3",
+      "id": "MC-PL03-24-0003/RMX/W2",
       "description": "Addressing a stock discrepancy.",
       "assignedTo": "Anna Lopez",
       "date": "2023-05-20",
@@ -30,7 +30,7 @@
       "ReviewComments": ""
     },
     {
-      "id": "MC-PL04-24-0004/MKT/W4",
+      "id": "MC-PL04-24-0004/IAX/EMX/W1",
       "description": "Corrective action for a marketing campaign issue.",
       "assignedTo": "Olivia Jones",
       "date": "2023-05-21",
@@ -40,7 +40,7 @@
       "ReviewComments": ""
     },
     {
-      "id": "MC-PL05-24-0005/SALES/W5",
+      "id": "MC-PL05-24-0005/OAX/EMX/W1",
       "description": "Addressing a customer complaint.",
       "assignedTo": "David Lee",
       "date": "2023-05-22",
@@ -50,7 +50,7 @@
       "ReviewComments": ""
     },
     {
-      "id": "MC-PL06-24-0006/IT/W6",
+      "id": "MC-PL06-24-0006/OAX/EMX/W1",
       "description": "Resolving a software bug.",
       "assignedTo": "Emily Garcia",
       "date": "2023-05-23",

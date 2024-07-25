@@ -1,0 +1,103 @@
+[
+    {
+      "id": "INC-PL01-24-0001/CAN/W2",
+      "planDescription": "Development",
+      "initiatedBy": "Michael Smith",
+      "date": "2024-01-10",
+      "targetDate": "2024-02-15",
+      "closureComments": "Completed successfully",
+      "closedByOn": "Sara Johnson & 2024-02-21",
+      "timeElapsed": "41 days"
+    },
+    {
+      "id": "INC-PL01-24-0002/CAN/W3",
+      "planDescription": "Testing",
+      "initiatedBy": "Anna Brown",
+      "date": "2024-02-05",
+      "targetDate": "2024-03-10",
+      "closureComments": "",
+      "closedByOn": "",
+      "timeElapsed": ""
+    },
+    {
+      "id": "INC-PL01-24-0003/CAN/W4",
+      "planDescription": "Documentation",
+      "initiatedBy": "James Wilson",
+      "date": "2024-03-01",
+      "targetDate": "2024-04-05",
+      "closureComments": "Documentation finalized",
+      "closedByOn": "Emily Davis & 2024-04-10",
+      "timeElapsed": "40 days"
+    },
+    {
+      "id": "INC-PL01-24-0004/CAN/W5",
+      "planDescription": "Research",
+      "initiatedBy": "Emma Johnson",
+      "date": "2024-04-10",
+      "targetDate": "2024-05-15",
+      "closureComments": "",
+      "closedByOn": "",
+      "timeElapsed": ""
+    },
+    {
+      "id": "INC-PL01-24-0005/CAN/W6",
+      "planDescription": "Deployment",
+      "initiatedBy": "Olivia Martinez",
+      "date": "2024-05-05",
+      "targetDate": "2024-06-10",
+      "closureComments": "Deployed successfully",
+      "closedByOn": "Daniel Harris & 2024-06-15",
+      "timeElapsed": "41 days"
+    },
+    {
+      "id": "INC-PL01-24-0006/CAN/W7",
+      "planDescription": "Maintenance",
+      "initiatedBy": "Lucas Clark",
+      "date": "2024-06-01",
+      "targetDate": "2024-07-05",
+      "closureComments": "",
+      "closedByOn": "",
+      "timeElapsed": ""
+    },
+    {
+      "id": "INC-PL01-24-0007/CAN/W8",
+      "planDescription": "Analysis",
+      "initiatedBy": "Mia Taylor",
+      "date": "2024-07-01",
+      "targetDate": "2024-08-05",
+      "closureComments": "Analysis finished",
+      "closedByOn": "Henry Wilson & 2024-08-10",
+      "timeElapsed": "41 days"
+    },
+    {
+      "id": "INC-PL01-24-0008/CAN/W9",
+      "planDescription": "Planning",
+      "initiatedBy": "Amelia Moore",
+      "date": "2024-08-01",
+      "targetDate": "2024-09-05",
+      "closureComments": "",
+      "closedByOn": "",
+      "timeElapsed": ""
+    },
+    {
+      "id": "INC-PL01-24-0009/CAN/W10",
+      "planDescription": "Evaluation",
+      "initiatedBy": "Elijah White",
+      "date": "2024-09-01",
+      "targetDate": "2024-10-05",
+      "closureComments": "Evaluation done",
+      "closedByOn": "Isabella Thompson & 2024-10-10",
+      "timeElapsed": "40 days"
+    },
+    {
+      "id": "INC-PL01-24-0010/CAN/W11",
+      "planDescription": "Optimization",
+      "initiatedBy": "Liam King",
+      "date": "2024-10-01",
+      "targetDate": "2024-11-05",
+      "closureComments": "",
+      "closedByOn": "",
+      "timeElapsed": ""
+    }
+  ]
+  

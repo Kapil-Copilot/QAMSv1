@@ -1,0 +1,83 @@
+[
+    {
+      "id": "PROV-CAPA-PL01-24-0035",
+      "department": "Quality Assurance",
+      "printedBy": "Ava Gonzalez",
+      "date": "2023-05-31",
+      "remarks": "Initial QA document",
+      "printCount": "1"
+    },
+    {
+      "id": "PROV-CAPA-PL01-24-0036",
+      "department": "Quality Control",
+      "printedBy": "Ethan Martinez",
+      "date": "2023-06-01",
+      "remarks": "QC checklist",
+      "printCount": "2"
+    },
+    {
+      "id": "PROV-CAPA-PL01-24-0037",
+      "department": "Quality Assurance",
+      "printedBy": "Sophia Rodriguez",
+      "date": "2023-06-05",
+      "remarks": "QA report",
+      "printCount": "3"
+    },
+    {
+      "id": "PROV-CAPA-PL01-24-0038",
+      "department": "Quality Control",
+      "printedBy": "Liam Johnson",
+      "date": "2023-06-10",
+      "remarks": "QC audit",
+      "printCount": "4"
+    },
+    {
+      "id": "PROV-CAPA-PL01-24-0039",
+      "department": "Quality Assurance",
+      "printedBy": "Emma Brown",
+      "date": "2023-06-15",
+      "remarks": "QA guidelines",
+      "printCount": "5"
+    },
+    {
+      "id": "PROV-CAPA-PL01-24-0040",
+      "department": "Quality Control",
+      "printedBy": "Mason Garcia",
+      "date": "2023-06-20",
+      "remarks": "QC procedures",
+      "printCount": "6"
+    },
+    {
+      "id": "PROV-CAPA-PL01-24-0041",
+      "department": "Quality Assurance",
+      "printedBy": "Isabella Martinez",
+      "date": "2023-06-25",
+      "remarks": "QA assessment",
+      "printCount": "7"
+    },
+    {
+      "id": "PROV-CAPA-PL01-24-0042",
+      "department": "Quality Control",
+      "printedBy": "Noah Hernandez",
+      "date": "2023-06-30",
+      "remarks": "QC standards",
+      "printCount": "8"
+    },
+    {
+      "id": "PROV-CAPA-PL01-24-0043",
+      "department": "Quality Assurance",
+      "printedBy": "Ava Wilson",
+      "date": "2023-07-05",
+      "remarks": "QA checklist",
+      "printCount": "9"
+    },
+    {
+      "id": "PROV-CAPA-PL01-24-0044",
+      "department": "Quality Control",
+      "printedBy": "Lucas White",
+      "date": "2023-07-10",
+      "remarks": "QC report",
+      "printCount": "10"
+    }
+  ]
+  

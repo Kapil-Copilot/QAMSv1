@@ -1,0 +1,55 @@
+[{
+       
+    "batchNoLotNo": "MEPJ240001",
+    "productMaterial":"Methocarbomal USP",
+    "arNo": "PL01FP240001",
+    "initiatedBy": "David Wilson",
+    "date": "2023-05-17"
+    
+  },
+  {
+       
+    "batchNoLotNo": "MEPJ240002",
+    "productMaterial":"Methocarbomal USP",
+    "arNo": "PL01FP240002",
+    "initiatedBy": "John Doe",
+    "date": "2023-05-17"
+    
+  },
+  {
+       
+    "batchNoLotNo": "MEPJ240003",
+    "productMaterial":"Methocarbomal USP",
+    "arNo": "PL01FP240003",
+    "initiatedBy": "Jane Smith",
+    "date": "2023-06-17"
+    
+  },
+  {
+       
+    "batchNoLotNo": "MEPJ240004",
+    "productMaterial":"Methocarbomal USP",
+    "arNo": "PL01FP240004",
+    "initiatedBy": "Milly Brown",
+    "date": "2023-06-16"
+    
+  },
+  {
+       
+    "batchNoLotNo": "MEPJ240005",
+    "productMaterial":"Methocarbomal USP",
+    "arNo": "PL01FP240005",
+    "initiatedBy": "Emilly Brown",
+    "date": "2023-06-06"
+    
+  },
+  {
+       
+    "batchNoLotNo": "MEPJ240006",
+    "productMaterial":"Methocarbomal USP",
+    "arNo": "PL01FP240006",
+    "initiatedBy": "Scarlett Davidson",
+    "date": "2023-06-16"
+    
+  }
+]

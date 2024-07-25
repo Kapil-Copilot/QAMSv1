@@ -1,0 +1,123 @@
+[
+    {
+      "id": "CAPA-PL01-24-0001/DM1",
+      "planDescription": "Development",
+      "referenceActionItem": "CAPA-PL01-24-0001/DM1/W1",
+      "category": "SOP",
+      "inChargeGroup": "",
+      "inChargeUser": "JohnDoe",
+      "documents": "Document",
+      "startDate": "2024-01-15",
+      "targetDate": "2024-02-25",
+      "previousPlanDetails": "View"
+    },
+    {
+      "id": "CAPA-PL01-24-0002/DM2",
+      "planDescription": "Testing",
+      "referenceActionItem": "CAPA-PL01-24-0002/DM2/W2",
+      "category": "QRM",
+      "inChargeGroup": "QA Team",
+      "inChargeUser": "",
+      "documents": "Document",
+      "startDate": "2024-02-01",
+      "targetDate": "2024-03-01",
+      "previousPlanDetails": "View"
+    },
+    {
+      "id": "CAPA-PL01-24-0003/DM3",
+      "planDescription": "Documentation",
+      "referenceActionItem": "CAPA-PL01-24-0003/DM3/W3",
+      "category": "SOP",
+      "inChargeGroup": "",
+      "inChargeUser": "EmilyClark",
+      "documents": "Document",
+      "startDate": "2024-03-10",
+      "targetDate": "2024-04-10",
+      "previousPlanDetails": "View"
+    },
+    {
+      "id": "CAPA-PL01-24-0004/DM4",
+      "planDescription": "Quality Control",
+      "referenceActionItem": "CAPA-PL01-24-0004/DM4/W4",
+      "category": "QRM",
+      "inChargeGroup": "QC Department",
+      "inChargeUser": "",
+      "documents": "Document",
+      "startDate": "2024-04-20",
+      "targetDate": "2024-05-20",
+      "previousPlanDetails": "View"
+    },
+    {
+      "id": "CAPA-PL01-24-0005/DM5",
+      "planDescription": "Research",
+      "referenceActionItem": "CAPA-PL01-24-0005/DM5/W5",
+      "category": "SOP",
+      "inChargeGroup": "",
+      "inChargeUser": "MarkBrown",
+      "documents": "Document",
+      "startDate": "2024-05-25",
+      "targetDate": "2024-06-25",
+      "previousPlanDetails": "View"
+    },
+    {
+      "id": "CAPA-PL01-24-0006/DM6",
+      "planDescription": "Implementation",
+      "referenceActionItem": "CAPA-PL01-24-0006/DM6/W6",
+      "category": "QRM",
+      "inChargeGroup": "Implementation Team",
+      "inChargeUser": "",
+      "documents": "Document",
+      "startDate": "2024-06-30",
+      "targetDate": "2024-07-30",
+      "previousPlanDetails": "View"
+    },
+    {
+      "id": "CAPA-PL01-24-0007/DM7",
+      "planDescription": "Audit",
+      "referenceActionItem": "CAPA-PL01-24-0007/DM7/W7",
+      "category": "SOP",
+      "inChargeGroup": "",
+      "inChargeUser": "AnnaWhite",
+      "documents": "Document",
+      "startDate": "2024-07-15",
+      "targetDate": "2024-08-15",
+      "previousPlanDetails": "View"
+    },
+    {
+      "id": "CAPA-PL01-24-0008/DM8",
+      "planDescription": "Evaluation",
+      "referenceActionItem": "CAPA-PL01-24-0008/DM8/W8",
+      "category": "QRM",
+      "inChargeGroup": "Evaluation Team",
+      "inChargeUser": "",
+      "documents": "Document",
+      "startDate": "2024-08-20",
+      "targetDate": "2024-09-20",
+      "previousPlanDetails": "View"
+    },
+    {
+      "id": "CAPA-PL01-24-0009/DM9",
+      "planDescription": "Review",
+      "referenceActionItem": "CAPA-PL01-24-0009/DM9/W9",
+      "category": "SOP",
+      "inChargeGroup": "",
+      "inChargeUser": "DavidJohnson",
+      "documents": "Document",
+      "startDate": "2024-09-25",
+      "targetDate": "2024-10-25",
+      "previousPlanDetails": "View"
+    },
+    {
+      "id": "CAPA-PL01-24-0010/DM10",
+      "planDescription": "Maintenance",
+      "referenceActionItem": "CAPA-PL01-24-0010/DM10/W10",
+      "category": "QRM",
+      "inChargeGroup": "Maintenance Team",
+      "inChargeUser": "",
+      "documents": "Document",
+      "startDate": "2024-10-30",
+      "targetDate": "2024-11-30",
+      "previousPlanDetails": "View"
+    }
+  ]
+  
